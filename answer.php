@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/division.png" alt="division" />
+        <img src="./images/divvy.png" alt="division" />
       </div>
       <div class="page-content-php">
         <div id="user-info">
